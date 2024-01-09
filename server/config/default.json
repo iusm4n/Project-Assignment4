@@ -1,0 +1,4 @@
+{
+    "db": "mongodb+srv://usman:KFVIEp95ZpzI5gLL@users.rx1isni.mongodb.net/users?retryWrites=true&w=majority",
+    "jwtPrivateKey": "usmanbooksapi"
+}
